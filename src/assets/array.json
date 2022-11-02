@@ -1,0 +1,43 @@
+[
+    {
+        "img": "https://media.istockphoto.com/photos/microsoft-edge-picture-id1267185125?k=20&m=1267185125&s=612x612&w=0&h=_z2xmekaEzdOY02NWVnPeCmSqXR3sd7I9GCutIcCNh0=",
+        "title": "Sitemas Operativos",
+        "text": "Los sistemas operativos son los programas encargados de administrar y gestionar de manera eficiente todos los recursos de un ordenador y otros dispositivos.",
+        "items" :[
+            "Instalación y  Ficha técnica",
+            "Manuales",
+            "Diccionario terminológico"
+        ] 
+        
+    },
+    {
+        "img":"https://concepto.de/wp-content/uploads/2014/10/hardware-2-e1551047236148.jpg",
+        "title" : "Introducción a Hardware",
+        "text" : "El hardware son aquellos elementos físicos o materiales que constituyen una computadora o un sistema informático.",
+        "items" : [
+            "Tipos de Mantenimiento",
+            "Manuales",
+            "Diccionario terminológico"
+        ]
+    },
+    {
+        "img":"https://blog.hubspot.es/hubfs/media/lenguajesprogramacion.jpeg",
+        "title" : "Lógica de Programación",
+        "text" : "La programación es el arte del proceso por el cual se limpia, codifica, traza y protege el código fuente de programas computacionales.",
+        "items" : [
+            "Desarrollo de un aplicativo",
+            "Menús y Submenus en POO",
+            "Beneficios de la programación"
+        ]
+    },
+    {
+        "img":"https://theenglishproject.com/wp-content/uploads/2020/11/aprende-ingles-linea.jpg",
+        "title" : "Inglés",
+        "text" : "El hablar inglés mejora las oportunidades laborales, fortalece tu cerebro ademas te va a ayudar a cumplir todos tus sueños",
+        "items" : [
+             "Abstract",
+             "Brochure",
+             "Terminology dictionary"
+        ]
+    }    
+]
