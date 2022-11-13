@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "opc1":"Video",
+        "opc2":"Manual",
+        "title": "Mantenimiento Preventivo",
+        "text": "El mantenimiento preventivo es de suma importancia, ya que como su nombre lo indica, nos permite prevenir cualquier tipo de daño en nuestro dispositivo. Este tipo de mantenimiento se realiza de manera rutinaria para de este modo reducir las fallas del equipo, se debe realizar cuando el equipo se encuentre en buenas condiciones, antes de que ocurra alguna falla",
+        "nombre":"Obejtivo del MP",
+        "texto": "El objetivo del mantenimiento preventivo es identificar las señales tempranas de un defecto para minimizar el riesgo de averia y reducir la necesidad de realizar un mantenimiento correctivo",
+        "manual": "https://es.calameo.com/read/00722408343042f70556e",
+        "video": "https://www.youtube.com/embed/ta1Ba4KQQb4"
+    },
+    {
+        "id": 2,
+        "opc1":"Video",
+        "opc2":"Manual",
+        "title": "Mantenimiento Correctivo",
+        "text": "El mantenimiento correctivo se refiere al tipo de mantenimiento que se realiza despues de una falla de un equipo, se trata de en un conjunto de tareas técnicas, destinadas a corregir las fallas del equipo que demuestren la necesidad de reparación o reemplazo. Este enfoque se debe usar como ultimo recurso, por este motivo es tan importante el mantenimienton preventivo. ",
+        "nombre":"Ejemplo Mantenimiento Correctivo",
+        "texto":"En caso que la memoria RAM del equipo se llegue a quemar o dañar, es necesario realizar el cambio de esta.Por ende en el video y manual explicamos el paso a paso de como se realiza el mantenimiento correctivo de una memoria RAM.",
+        "manual": "https://es.calameo.com/read/007224083b736770531bc",
+        "video": "https://www.youtube.com/embed/hEgAN2hzGD4"
+    },
+    {
+        "id": 3,
+        "opc1":"Definicios",
+        "opc2": "Pruebas",
+        "title":"Benchmark",
+        "text": "Los benchmark de sistemas evaluan el desempeño general de un sistema para un modelo de uso definido, miden el desempeño de los componentes individuales.",
+        "nombre":"¿Que evaluan los Benchmark",
+        "texto":"Los benchmark miden el Estado del PC, Procesador, Tarjeta de graficos, Unidad de arranque, Memoria, Version del sistema operativo, CPU, Velocidad del ventilador, entre otros. ",
+        "manual": "https://es.calameo.com/read/0072240838aa8da9b10af",
+        "video": "https://www.gamingscan.com/wp-content/uploads/2019/04/system-performance-test.jpg"
+    }
+]
