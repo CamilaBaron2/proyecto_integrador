@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "nombre": "Debian",
+        "perfil" : "https://wallpaperaccess.com/full/814814.jpg",
+        "caracteristicas": [
+            "Libre distribución.",
+            "El código fuente debe ser incluido por completo.",
+            "Se deben permitir trabajos derivados o modificaciones.",
+            "No discriminar contra personas o grupos.",
+            "No discriminar en función del objetivo final que se persigue."
+        ],
+        "definicion":[
+            {
+                "title": "¿Que es Debian?",
+                "contenido": "El Proyecto Debian comenzó en 1993, cuando Ian Murdock hizo una invitación a todos los desarrolladores de software a contribuir a una distribución completamente coherente basada en el entonces relativamente nuevo núcleo Linux. El centro de un sistema operativo es el núcleo Kernel . El núcleo es el programa más importante en la computadora, realiza todo el trabajo básico y le permite ejecutar otros programas. Una gran parte de las herramientas básicas que completan el sistema operativo, vienen del proyecto GNU; de ahí los nombres: GNU/Linux, GNU/kFreeBSD, y GNU/Hurd. Estas herramientas también son libres.",
+                "img": "https://i.blogs.es/82572c/debian-logo/1366_2000.jpg"
+            },
+            {
+                "title": "¿Que es Debian GNU/Linux?",
+                "contenido":"Lo que forman una distribución de software única llamada Debian GNU/Linux es la combinación de la filosofía y metodología de Debian, las herramientas GNU, el núcleo Linux, y otro software libre importante.La atención que pone Debian a los detalles nos permite producir una distribución de alta calidad, estable y escalable. Debian es especialmente popular entre los usuarios avanzados debido a su excelencia técnica y compromiso con las necesidades y expectativas de la comunidad Linux. Debian también introdujo muchas características a Linux, que ahora son comunes.",
+                "img":"https://sites.google.com/site/sistemasoperativoshn/_/rsrc/1461901543156/gnu-linux/gnulinux-logo.png"
+            }
+        ],
+        "video": "https://www.youtube.com/embed/36jVEffrW8g",
+        "manual": "https://es.calameo.com/read/0011079511283764ee0a3"
+    },
+    {
+        "id": 2,
+        "nombre": "Windows 10",
+        "perfil":"https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570815275/itpro/2015/11/windows-10-screen.jpg",
+        "caracteristicas": [
+            "Procesador a 1 GHz o más rápido o sistemas en un chip (SoC)",
+            "Ram 1 GB para 32 bits / 2 GB para 64 bits",
+            "Disco duro 16 GB para un SO de 32 bits o 32 GB para un SO de 64 bits.",
+            "Tarjeta grafica DirectX 9 o posterior con un controlador WDDM 1.0."
+        ],
+        "definicion":[
+            {
+                "title": "¿Que es Windows 10?",
+                "contenido": "Windows 10 viene siendo la antepenúltima versión desarrollada por Microsoft como parte de la familia de Windows NT.5. Esta versión ha presentado innovaciones en comparación con las anteriores, ya que Microsoft ofrece gratuitamente este sistema operativo para aquellos usuarios que cuenten con copias originales de Windows 7 y Windows 8.1 update. Es una edición súper completa diseñada para toda la familia de los productos Microsoft tales como: laptops, tabletas, teléfonos inteligentes, Xbox One, entre otros. Esto se da a partir de su código casi idéntico que le permite tener tal compatibilidad en las diferentes herramientas tecnológicas.",
+                "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Windows_10_Logo.svg/2560px-Windows_10_Logo.svg.png"
+            },
+            {
+                "title": "Ventajas",
+                "contenido":"Windows implementa un sistema de actualizaciones más coherente y con mucho más sentido común. Ya no es necesario esperar para obtener actualizaciones no críticas. Se ofrecerán instantáneamente cuando estén disponibles, sin tener que estar tan pendiente. Aparte con la actualización incluyeron contraseñas biométricas, Cortana, genera un único sistema operativo, una tienda de apps y programas para todos.",
+                "img":"https://blogs.windows.com/wp-content/uploads/2017/06/8c2133bc59b7dea5a6fb40725fe9e4dc.jpg"
+            }
+        ],
+        "video": "https://www.youtube.com/embed/3VvtXl_NVhs",
+        "manual": "https://es.calameo.com/read/007198249900d0bf355e7"
+    },
+    {
+        "id": 3,
+        "nombre": "Ubuntu",
+        "perfil":"https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png",
+        "caracteristicas": [
+            "Procesador 700Mhz de 64 bits, lo ideal 1Ghz x64 en adelante",
+            "Ram 1 GB, lo idea son 2 GB en adelante",
+            "Disco duro 10 GB, lo ideal 20 GB en adelante.",
+            "Interfaz grafica Unity (11.04 - 17.04), GNOME Shell (17.10+)."
+        ],
+        "definicion":[
+            {
+                "title": "¿Que es Ubuntu?",
+                "contenido": "Ubuntu está basado en Debian, otra de las distribuciones Linux más valoradas, a su vez este incluye Unity, su propio entorno de escritorio pensado para proporcionar una experiencia de usuario sencilla y que cualquiera pueda utilizar Linux sin tener conocimientos avanzados. La iniciativa de software libre alcanza su máxima expresión cuando en el equipo se instala el sistema operativo GNU/Linux en lugar de Windows. Existen múltiples distribuciones gratuitas, todos ofrecen un entorno totalmente visual y gráfico que facilita el uso de aplicaciones",
+                "img": "https://assets.ubuntu.com/v1/8dd99b80-ubuntu-logo14.png"
+            },
+            {
+                "title": "¿Por que es bueno Ubuntu?",
+                "contenido":"Una gran ventaja es que no tiene ningún costo, tanto su instalación como sus actualizaciones son completamente gratuitas y, en cualquiera de sus versiones, no necesita licencia. Una de las principales características de Linux y sus sistemas es que son menos propensos a recibir ataques de parte de los hackers. Además, en Ubuntu encontramos que es un sistema operativo estable que recibe actualizaciones de seguridad automáticas de manera frecuente, lo que implica que no es necesario instalar un antivirus para su protección.",
+                "img":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Ubuntu_22.04_LTS_Jammy_Jellyfish.png"
+            }
+        ],
+        "video": "https://www.youtube.com/embed/4cRl8w6uDVI",
+        "manual": ""
+    },
+    {
+        "id": 4,
+        "nombre": "Fedora",
+        "perfil":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fedora-logo.svg/2048px-Fedora-logo.svg.png",
+        "caracteristicas": [
+            "Nucleo Linux, Tipo Monolitico",
+            "Plataformas admitidas x86, x86-64",
+            "Sistema de gestión de paquetes RPM Package Manager",
+            "Interfaz grafica GNOME"
+        ],
+        "definicion":[
+            {
+                "title": "¿Que es Fedora?",
+                "contenido": "Fedora es una distribución Linux para propósitos generales basada en RPM, que se caracteriza por ser un sistema estable, la cual es mantenida gracias a una comunidad internacional de ingenieros, diseñadores gráficos y usuarios que informan de fallos y prueban nuevas tecnologías. Cuenta con el respaldo y la promoción de Red Hat. El nombre de Fedora deriva de Fedora Linux, un proyecto creado por voluntarios que proveía software adicional a la distribución Red Hat Linux, y del característico sombrero Fedora usado en el logotipo de la distribución comercial. Fedora Linux fue finalmente absorbido en el Proyecto Fedora. Fedora es una marca registrada de Red Hat, aunque esto ha sido previamente disputado ",
+                "img": "https://www.techcentral.ie/wp-content/uploads/2015/05/RH_Fedora_logo_web.jpg"
+            },
+            {
+                "title": "Ventajas",
+                "contenido":"Es un sistema operativo gratuito, el cual puedes descargarlo o pedir un cd de instalación sin costos desde Internet. Aunque existen versiones pagadas, estas son muchísimo más baratas que pagar por una versión de Windows o de Mac. Por tanto, todas sus actualizaciones no tienen costo.Es un sistema que no requiere mucha máquina para que funcione con fluidez. Este punto es bastante útil para todos los que utilizan computadores más viejitos o para los que quieran reutilizar sus tarros más obsoletos.",
+                "img":"https://www.seekpng.com/png/detail/207-2071630_benedictus-linux-fedora-logo-png.png"
+            }
+        ],
+        "video": "https://www.youtube.com/embed/cJ7nFT5SW70",
+        "manual": "https://es.calameo.com/read/00722780172857d9df5cb"
+    },
+    {
+        "id": 5,
+        "nombre": "Windows Server 2008",
+        "perfil":"https://www.tradeinn.com/f/13787/137876170/microsoft-windows-server-2019-standard-license-english.jpg",
+        "caracteristicas": [
+            "El procesador debe tener como mínimo 64 bits a 1,4 GHz",
+            "La memoria RAM debe ser como mínimo de 512 MB",
+            "Sistema basado en UEFI 2.3.1c.",
+            "Interfaz grafica Continuum"
+        ],
+        "definicion":[
+            {
+                "title": "¿Que es Windows Server?",
+                "contenido": "Es  un sistema operativo con lenguaje C++ y asembler, sistema multiusuario fecha de lanzamiento fue el 2000, lo lanza la familia de Microsoft, para ser el servidor de archivos, impresión y web ,como plataforma para copilar una infraestructura de aplicaciones redes y servicios, se lanza en el 2019 una versión más reciente que se adapta a las necesidades del mundo actual, con procesador en  dos versiones basadas en el núcleo “Standard y Datacenter” siendo el Datacenter el que ofrece una mayor prestación lo que hace que tenga un mejor soporte en cuanto a máquinas virtuales, de esa manera extiende el uso de máquinas virtuales blindadas a maquinas Linux.",
+                "img": "https://partner.microsoft.com/-/media/mssc/mpn/partner/solutions/images/featurecontent-3-column-_500x280_windows_server.ashx?h=280&iar=0&w=500&la=en&hash=8DD80B877119E40C52E4659686958A37"
+            },
+            {
+                "title": "Ventajas",
+                "contenido":"Ofrece a las compañías de todo el mundo una conexión a red más rápida que las VPN tradicionales, para así poder tener un entorno administrado o actualizado de servidor virtualizado, con esto pueden replicar determinada maquina virtual sin necesidad de almacenamiento compartido.  Mejora los resultados corporativos dado que tiene una administración muy sencilla para programadores y desarrolladores de modo que el sistema se deja manejar de manera rápida y sencilla por su excelente flexibilidad.",
+                "img":"https://www.bleepstatic.com/content/hl-images/2022/01/13/windows-server-on-fire.jpg"
+            }
+        ],
+        "video": "https://www.youtube.com/embed/aHQUMhfAV5Y",
+        "manual": ""
+    }
+]
